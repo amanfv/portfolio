@@ -1,7 +1,6 @@
 import { GithubIcon, LinkedinIcon, MailIcon, TwitterIcon } from "./icons";
 
 const links = [
-  { label: "Twitter", href: "https://x.com/amanzrk", Icon: TwitterIcon },
   { label: "LinkedIn", href: "https://linkedin.com/in/amansaa", Icon: LinkedinIcon },
   { label: "GitHub", href: "https://github.com/amansaaa", Icon: GithubIcon },
   { label: "Email", href: "mailto:amsaggi7@gmail.com", Icon: MailIcon },

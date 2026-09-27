@@ -22,18 +22,18 @@ export default function Home() {
         <SubList>
           <SubBullet>
             created{" "}
-            <UnderlineLink href="https://example.com" external className="font-normal">
+            <UnderlineLink href="https://github.com/amansaaa/euphoric-posters" external className="font-normal">
               Euphoric Posters 
             </UnderlineLink>{" "}
-            ($5K+ in revenue, 200+ orders, 25K+ session visits)
+            ($5K+ in revenue, 200+ orders, 25K+ visits)
           </SubBullet>
 
            <SubBullet>
             shipped {" "}
-            <UnderlineLink href="https://example.com" external className="font-normal">
+            <UnderlineLink href="https://fantano.tech" external className="font-normal">
               fantano
             </UnderlineLink>{" "}
-            in &lt; 2 days to 50+ users
+            in &lt; 3 days to 50+ users
           </SubBullet>
 
                    
@@ -56,11 +56,11 @@ export default function Home() {
             <UnderlineLink href="https://www.tiktok.com/@amanssa_" external className="font-normal">
               TikTok
             </UnderlineLink>{" "}
-            (140K+ followers, 4M+ likes, and 20M+ views)
+            (140K+ followers, 4M+ likes, & 20M+ views)
           </SubBullet>
 
           <SubBullet>
-          competitive fortnite (2nd, 8th, 16th, and more across NA tournaments)
+          competitive fortnite (2nd, 8th, 16th, & more across various NA tournaments)
           </SubBullet>
         </SubList>
       </Bullet>

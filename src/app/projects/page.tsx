@@ -10,7 +10,6 @@ export default function Projects() {
       <ProjectCard
         title="Euphoric Posters"
         description="TRANSFORM YOUR WALLS. Generated $5000+ in sales, 200+ orders, and 25K+ visits by designing and creating posters."
-        href="https://example.com"
         github="https://github.com/amansaaa/euphoric-posters"
         image="/projects/euphoric.png"
       />
@@ -25,8 +24,11 @@ export default function Projects() {
 
       <ProjectCard
         title="Fantano"
-        description="an Anthony Fantano recommendation system for discovering music. 50+ users, idea to production in <2 days."
+        description="an Anthony Fantano recommendation system for discovering music. 50+ users, idea to production in <3 days."
+        href="https://fantano.tech"
         github="https://github.com/amansaaa/fantano"
+        image="/projects/Fantano.png"
+
       />
     </div>
   );
