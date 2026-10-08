@@ -13,7 +13,13 @@ export default function Home() {
         <UnderlineLink href="https://www.ece.utoronto.ca/" external className="ml-1 font-normal">
           University of Toronto
         </UnderlineLink>
+        <SubList>
+          <SubBullet>
+            specializing in high-performance computing &amp; intelligent systems
+          </SubBullet>
+        </SubList>
       </Bullet>
+
 
       <Bullet>
         <em className="font-normal italic text-stone-700 dark:text-stone-300">
