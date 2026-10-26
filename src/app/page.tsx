@@ -15,7 +15,7 @@ export default function Home() {
         </UnderlineLink>
         <SubList>
           <SubBullet>
-            specializing in high-performance computing &amp; intelligent systems
+            specializing in high-performance computing &amp; distributed systems
           </SubBullet>
         </SubList>
       </Bullet>
@@ -26,22 +26,22 @@ export default function Home() {
           what i&apos;ve been building:
         </em>
         <SubList>
+
           <SubBullet>
-            created{" "}
-            <UnderlineLink href="https://github.com/amansaaa/euphoric-posters" external className="font-normal">
-              Euphoric Posters 
+            built a low-latency {" "}
+            <UnderlineLink href="https://github.com/amanfv/matching-engine" external className="font-normal">
+            limit order book & matching engine
             </UnderlineLink>{" "}
-            ($5K+ in revenue, 200+ orders, 25K+ visits)
+              in C++
           </SubBullet>
 
-           <SubBullet>
-            shipped {" "}
-            <UnderlineLink href="https://fantano.tech" external className="font-normal">
-              fantano
+          <SubBullet>
+            built an optimized {" "}
+            <UnderlineLink href="https://github.com/amanfv/allocator" external className="font-normal">
+              dynamic memory allocator
             </UnderlineLink>{" "}
-            in &lt; 3 days to 50+ users
+              in C
           </SubBullet>
-
                    
           <SubBullet>
             built {" "}
@@ -58,8 +58,16 @@ export default function Home() {
         <em className="font-normal italic text-stone-700 dark:text-stone-300">previously:</em>
         <SubList>
           <SubBullet>
-            creator {" "} 
-            <UnderlineLink href="https://www.tiktok.com/@amanssa_" external className="font-normal">
+            founded{" "}
+            <UnderlineLink href="https://github.com/amanfv/euphoric-posters" external className="font-normal">
+              Euphoric Posters
+            </UnderlineLink>{" "}
+            ($5K+ in revenue, 200+ orders, 25K+ visits)
+          </SubBullet>
+
+          <SubBullet>
+            creator {" "}
+            <UnderlineLink href="https://www.tiktok.com/@amanfv" external className="font-normal">
               TikTok
             </UnderlineLink>{" "}
             (140K+ followers, 4M+ likes, & 20M+ views)

@@ -10,7 +10,7 @@ export default function Projects() {
       <ProjectCard
         title="Euphoric Posters"
         description="TRANSFORM YOUR WALLS. Generated $5000+ in sales, 200+ orders, and 25K+ visits by designing and creating posters."
-        github="https://github.com/amansaaa/euphoric-posters"
+        github="https://github.com/amanfv/euphoric-posters"
         image="/projects/euphoric.png"
       />
 
@@ -18,7 +18,7 @@ export default function Projects() {
         title="Visualize"
         description="pinterest for data visualization. An agent pipeline researches your query and composes an aesthetic visualization."
         href="https://vvisualize.app/"
-        github="https://github.com/amansaaa/visualize"
+        github="https://github.com/amanfv/visualize"
         image="/projects/vis.png"
       />
 
@@ -26,7 +26,7 @@ export default function Projects() {
         title="Fantano"
         description="an Anthony Fantano recommendation system for discovering music. 50+ users, idea to production in <3 days."
         href="https://fantano.tech"
-        github="https://github.com/amansaaa/fantano"
+        github="https://github.com/amanfv/fantano"
         image="/projects/Fantano.png"
 
       />
